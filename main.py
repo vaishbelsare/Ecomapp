@@ -1,1 +1,0 @@
-print(f'welcome to all')
